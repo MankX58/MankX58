@@ -1,5 +1,5 @@
 ```javascript
-const MankX = {
+const MankX58 = {
   real_name: "Manuel Gutierrez",
   age: 16,
   technologies: "HTML, CSS, JAVASCRIPT, REACTJS, TAILWINDCSS, PYTHON",
@@ -8,7 +8,8 @@ const MankX = {
     2022: "Learned JAVASCRIPT and PYTHON",
     2023: "Learned TALWINDCSS and REACTJS",
     2024: "Start learning NEXTJS and BACKEND technologies"
-}
+  },
+  experience: "Since i start with HTML and CSS i made a lot of small projects for test my knowledge, like a blog (i do like 4), a weight in others planet calculator, portfolios, and shop pages, now im workin in a page that i could say is my greatest archievement in all of the time i have been coding, because i´ve learned a lot doing that, for now, it´s private, but in a future, i expect not to far, i could maybe show that to everyone"
 }
 
 ```
