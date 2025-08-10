@@ -9,10 +9,7 @@ const MankX58 = {
     2023: "Learned TALWINDCSS and REACTJS",
     2024: "Start learning NEXTJS and BACKEND technologies"
   },
-  experience: "Since i start with HTML and CSS i made a lot of small projects for test my knowledge,
-  like blogs, a weight in others planet calculator, portfolios, and shop pages, now im workin
-  in a page that i could say is my greatest archievement in all of the time i have been coding, because i´ve learned
-  a lot doing that, for now, it´s private, but in a future, i expect not too far, i could maybe show that to everyone"
+  experience: "Since I started with HTML and CSS, I’ve built many small projects to test and improve my skills — from blogs and portfolio websites to e-commerce pages and even fun experiments like a “weight on other planets” calculator. Over time, I expanded my knowledge into JavaScript, React, Tailwind CSS, and responsive design, creating more complex and interactive applications. Right now, I’m working on a project that’s helping me grow in API integration, performance optimization, and clean code architecture. It’s private for now, but I’m excited to share it in the near future."
 }
 
 ```
