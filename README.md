@@ -7,7 +7,8 @@ const MankX58 = {
     2021: "Learned HTML and CSS",
     2022: "Learned JAVASCRIPT and PYTHON",
     2023: "Learned TALWINDCSS and REACTJS",
-    2024: "Start learning NEXTJS and BACKEND technologies",
+    2024: "Continue my ReactJS learning by completing projects",
+    2025: "Start learning NEXTJS and BACKEND technologies",
   },
   experience:
     "Since I started with HTML and CSS, I've built many small projects to test and improve my skills —" +
