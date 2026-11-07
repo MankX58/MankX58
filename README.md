@@ -19,7 +19,7 @@
 <br/>
 
 <!-- ══════════════════════════  ABOUT  ══════════════════════════ -->
-## 🧠 `whoami`
+## `whoami`
 
 
 ```js
@@ -29,7 +29,7 @@ const MankX58 = {
   studying: "UdeM 🎓",
   stack:    ["React", "Next.js", "TypeScript", "Tailwind", "Node.js"],
   learning: ["Backend", "APIs", "Arquitectura limpia"],
-  hobbies:  ["Construir side-projects", "Experimentar con IA"],
+  hobbies:  ["Construir side-projects"],
   motto:    "Si se puede imaginar, se puede desplegar 🚀",
 };
 ```
@@ -41,7 +41,7 @@ const MankX58 = {
 
 
 <!-- ══════════════════════════  STACK  ══════════════════════════ -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -60,25 +60,25 @@ const MankX58 = {
 </div>
 
 <!-- ══════════════════════════  PROJECTS  ══════════════════════════ -->
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <div align="center">
 
-| | Proyecto | Qué es | Stack | Demo |
-|:-:|:--|:--|:-:|:-:|
-| 🤖 | **[Chatbot-IA](https://github.com/MankX58/Chatbot-IA)** | Chatbot impulsado por IA | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://chatbot-ia-blond.vercel.app) |
-| 🧩 | **[PatternAI](https://github.com/MankX58/PatternAI)** | Experimento de patrones con IA | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | [▶ Ver](https://pattern-ai-rosy.vercel.app) |
-| 💸 | **[Mis Finanzas](https://github.com/MankX58/mis-finanzas)** | Control de gastos personales | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://mis-finanzas-mankx.vercel.app) |
-| 📚 | **[Student Planner](https://github.com/MankX58/student-planner-and-grades)** | Planificador y notas para estudiantes | ![TS](https://img.shields.io/badge/-TS-3178C6?logo=typescript&logoColor=white) | [▶ Ver](https://student-planner-and-grades.vercel.app) |
-| 🛒 | **[Mercado Viva](https://github.com/MankX58/mercado-viva-devoluciones)** | Gestión de devoluciones | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://mercado-viva-devoluciones-six.vercel.app) |
-| 🧟 | **[Simulación de Infección](https://github.com/MankX58/SimulacionDePropagacionDeInfeccion)** | Brote estilo *Resident Evil* en una matriz NxN con árbol de contagio | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | — |
+| Proyecto | Qué es | Stack | Demo |
+|:--|:--|:-:|:-:|
+| **[Chatbot-IA](https://github.com/MankX58/Chatbot-IA)** | Chatbot impulsado por IA | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://chatbot-ia-blond.vercel.app) |
+| **[PatternAI](https://github.com/MankX58/PatternAI)** | Experimento de patrones con IA | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) | [▶ Ver](https://pattern-ai-rosy.vercel.app) |
+| **[Mis Finanzas](https://github.com/MankX58/mis-finanzas)** | Control de gastos personales | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://mis-finanzas-mankx.vercel.app) |
+| **[Student Planner](https://github.com/MankX58/student-planner-and-grades)** | Planificador y notas para estudiantes | ![TS](https://img.shields.io/badge/-TS-3178C6?logo=typescript&logoColor=white) | [▶ Ver](https://student-planner-and-grades.vercel.app) |
+| **[Mercado Viva](https://github.com/MankX58/mercado-viva-devoluciones)** | Gestión de devoluciones | ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) | [▶ Ver](https://mercado-viva-devoluciones-six.vercel.app) |
+| **[Simulación de Infección](https://github.com/MankX58/SimulacionDePropagacionDeInfeccion)** | Brote estilo *Resident Evil* en una matriz NxN con árbol de contagio | ![Py](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | — |
 
 <sub>👉 Más en <a href="https://github.com/MankX58?tab=repositories">mis repositorios</a></sub>
 
 </div>
 
 <!-- ══════════════════════════  STATS  ══════════════════════════ -->
-## 📊 Estadísticas
+## Estadísticas
 
 <div align="center">
 
@@ -92,7 +92,7 @@ const MankX58 = {
 </div>
 
 <!-- ══════════════════════════  TIMELINE  ══════════════════════════ -->
-## 🗺️ Mi camino
+## Mi camino
 
 ```diff
 + 2021  🌐  HTML & CSS — mis primeras páginas
@@ -106,7 +106,7 @@ const MankX58 = {
 <!-- ══════════════════════════  FOOTER  ══════════════════════════ -->
 <div align="center">
 
-### 🤝 ¿Construimos algo juntos?
+### ¿Construimos algo juntos?
 
 <a href="https://portafolio-manugv.vercel.app/"><img src="https://img.shields.io/badge/Visita%20mi%20portafolio-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=00d4ff"/></a>
 
